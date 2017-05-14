@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 group :production, :staging do
   gem 'rails_12factor'
 end
-ruby '2.2.2'
+ruby '2.2.4'
 gem 'rakuten_web_service'
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
